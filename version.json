@@ -1,5 +1,5 @@
 {
     "latest_version": "0.5.1",
-    "patch_url": "https://github.com/burikfried-cyber/medical-safety-releases/releases/download/0.5.1/MedSafeApp-Patch-0.5.1.zip",
-    "patch_sha256": "e5ee84152343e8e1d7171824a85c7d5e99b8e3c6e974923f9881364f920a6016"
+    "download_url": "https://github.com/burikfried-cyber/medical-safety-releases/releases/download/0.5.1/MedSafeApp-0.5.1.zip",
+    "sha256": "8396edf9d87b48f877e33d3440c53ef4fe8475b6f7475a250b7aa366aae83544"
 }
